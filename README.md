@@ -1,5 +1,5 @@
 # positive-unlabeled-learning
-Example of a positive-unlabeled machine learning methodology.
+Example of a positive-unlabeled machine learning methodology. Completed Spring 2024 at the University of Texas M.D. Anderson Cancer Center, Institute for Data Science in Oncology.
 
 ## References
 - https://link.springer.com/article/10.1007/s10994-020-05877-5
