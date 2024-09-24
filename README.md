@@ -1,5 +1,5 @@
 # positive-unlabeled-learning
-Positive Unlabeled Learning: Example of a positive-unlabeled machine learning methodology.
+Example of a positive-unlabeled machine learning methodology.
 
 ## References
 - https://link.springer.com/article/10.1007/s10994-020-05877-5
